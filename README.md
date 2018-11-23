@@ -1,1 +1,1 @@
-My solutions to NLO course at HU
+My solutions for NLO course at HU
